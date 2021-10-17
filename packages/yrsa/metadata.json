@@ -1,16 +1,16 @@
 {
   "fontId": "yrsa",
   "fontName": "Yrsa",
-  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "subsets": ["latin", "latin-ext"],
   "weights": [300, 400, 500, 600, 700],
-  "styles": ["italic", "normal"],
+  "styles": ["normal"],
   "defSubset": "latin",
   "variable": {
     "ital": { "default": "0", "min": "0", "max": "1", "step": "1" },
     "wght": { "default": "400", "min": "300", "max": "700", "step": "1" }
   },
-  "lastModified": "2021-08-18",
-  "version": "v8",
+  "lastModified": "2020-09-02",
+  "version": "v6",
   "category": "serif",
   "source": "https://fonts.google.com/",
   "license": "https://fonts.google.com/attribution",
